@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Proofreading Boutique]]></title>
+        <description><![CDATA[Proofreading Boutique]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 18 Dec 2015 15:11:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gawker - Today's gossip is tomorrow's news]]></title>
+            <description><![CDATA[<article><h1>Gawker - Today's gossip is tomorrow's news</h1><p>Ethiopia, the South of France, Jackson Hole: These are not places I have ever been, but joke's on me and you and all of us, because Vogue 's most photogenic and independently wealthy editors will be touching down for some casual visits over Christmas-and they even allowed us into their beautiful homes to watch them...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9bb5e1ea7f95bae26002bab55569b2b8b0d24913.png"></article>]]></description>
+            <link>http://gawker.com/</link>
+            <guid isPermaLink="false">5012c28f-2788-4202-8c4a-ac45adc93988</guid>
+            <pubDate>Fri, 18 Dec 2015 15:11:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
